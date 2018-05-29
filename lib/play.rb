@@ -37,7 +37,7 @@ end
 
 def play(board)
   round = 0
-  while round <= 9 
+  while round < 9 
   turn(board)
 end
 end
